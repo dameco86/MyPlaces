@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis Sitios</string>
+    <string name="accion_mostrar">Mostrar Lugares</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="salir">Salir</string>
+    <string name="tipo">Tipo</string>
+    <string name="action_settings">Ajustes</string>
+</resources>

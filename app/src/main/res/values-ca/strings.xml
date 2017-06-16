@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Els meus llocs</string>
+    <string name="accion_mostrar">Mostra llocs</string>
+    <string name="preferencias">Preferencies</string>
+    <string name="acerca_de">Quant a</string>
+    <string name="salir">Sortir</string>
+    <string name="tipo">Tipus</string>
+    <string name="action_settings">Ajustos</string>
+</resources>
